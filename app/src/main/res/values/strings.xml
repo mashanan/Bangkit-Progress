@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cek.in</string>
+    <string name="title_home">Home</string>
+    <string name="title_supply">Supply</string>
+    <string name="title_chart">Chart</string>
+    <string name="start">Lets Start</string>
+    <string name="makeaccount">or, make new account ?</string>
+    <string name="signup">Sign Up</string>
+
+<!--    <string-array name="nama_barang">-->
+<!--        <item>Hairdryer</item>-->
+<!--        <item>Oven</item>-->
+<!--        <item>Kulkas</item>-->
+<!--        <item>Almari</item>-->
+<!--        <item>Kipas</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="jumlah_supply">-->
+<!--        <item>100</item>-->
+<!--        <item>110</item>-->
+<!--        <item>120</item>-->
+<!--        <item>130</item>-->
+<!--        <item>140</item>-->
+<!--    </string-array>-->
+
+<!--    <string-array name="jumlah_terjual">-->
+<!--        <item>50</item>-->
+<!--        <item>60</item>-->
+<!--        <item>70</item>-->
+<!--        <item>80</item>-->
+<!--        <item>90</item>-->
+<!--    </string-array>-->
+
+
+</resources>
